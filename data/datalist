@@ -1,0 +1,11 @@
+dorfric: dorfric dorfric.dft dorfric.l dorfric.lv dorfric.w
+dorsal: dorsal dorsal.bound dorsal.clab dorsal.epg dorsal.fm dorsal.sam dorsal.vlab
+f2geraus: f2geraus f2geraus.l
+fr: fr fr.dft fr.l fr.sp
+keng: keng keng.dft.5 keng.l
+plos: plos plos.asp plos.dft plos.l plos.lv plos.sam plos.w
+sib: sib sib.dft sib.l sib.w
+stops10: stops10 stops10.lab
+stops2: stops stops.bark stops.dct stops.dft stops.l stops.sp stopsvow stopsvow.fm stopsvow.l
+timevow: timevow timevow.dft timevow.fm timevow.fm5 timevow.l
+v.sam
